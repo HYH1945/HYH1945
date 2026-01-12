@@ -1,5 +1,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jech003)](https://solved.ac/jech003/)
 
+경북대학교 컴퓨터학부 학부생
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 <!--
 **HYH1945/HYH1945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
